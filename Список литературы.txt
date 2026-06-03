@@ -1,0 +1,2 @@
+1. .gitignore: полный гайд с шаблонами для Python, Node.js, Java и Go [Электронный ресурс]. — Режим доступа: https://tproger.ru/articles/gitignore-polnyj-gajd-s-wablonami-dlya-python-node-js-java-i (дата обращения: 03.06.2026).
+2. Fancier Output Formatting [Электронный ресурс]. — Режим доступа: https://docs.python.org/3/tutorial/inputoutput.html (дата обращения: 03.06.2026).
